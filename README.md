@@ -4,7 +4,7 @@ My name is **Alvin**, I'm an Tech Entrep, product manager, full stack developer,
 
 13 years of experience in the Software Engineering field. I had the great privilege and ultimately blessed to be part of the Enterprise Technology teams. 
 
-Building the future of web infrastructure at @protocollabs
+Building the future of web infrastructure at [@protocollabs](https://protocol.ai/)
 
 [![AlvinReyes's github stats](https://github-readme-stats.vercel.app/api?username=alvin-reyes&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
