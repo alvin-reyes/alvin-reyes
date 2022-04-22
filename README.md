@@ -1,7 +1,7 @@
 
 [![AlvinReyes's github stats](https://github-readme-stats.vercel.app/api?username=alvin-reyes&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Harry-Chen">
+<a href="https://github.com/alvin-reyes">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=gotham&username=alvin-reyes&layout=compact" />
 </a>
 
