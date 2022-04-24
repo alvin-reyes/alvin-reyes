@@ -2,9 +2,9 @@ Hi 👋
 
 My name is **Alvin**, I'm an Tech Entrep, product manager, full stack developer, devops and web3 technologist trying to make a positive dent with what I do best: tech/coding. I love open source software. I love building useful solution. I love solving customer problems, I love improving stuff. I love innovation.
 
-13 years of experience in the Software Engineering field. I had the great privilege and ultimately blessed to be part of the Enterprise Technology teams. 
+13 years of experience in the Software Engineering field. I had the great privilege and ultimately blessed to be part of the Enterprise Technology teams at HP, Oracle, IBM, Macquarie Group.
 
-Building the future of web infrastructure at [@protocollabs](https://protocol.ai/)
+I'm currently trying my best to build the future of web infrastructure with [@protocollabs](https://protocol.ai/)
 
 [![AlvinReyes's github stats](https://github-readme-stats.vercel.app/api?username=alvin-reyes&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
