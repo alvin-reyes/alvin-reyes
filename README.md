@@ -5,12 +5,3 @@ My name is **Alvin**, I'm an Tech Entrep, product manager, full stack developer,
 13 years of experience in the Software Engineering field. I had the great privilege and ultimately blessed to be part of the Enterprise Technology teams at HP, Oracle, IBM, Macquarie Group.
 
 I'm currently trying my best building the future of web infrastructure at [@protocollabs](https://protocol.ai/)
-
-[![AlvinReyes's github stats](https://github-readme-stats.vercel.app/api?username=alvin-reyes&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/alvin-reyes">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=gotham&username=alvin-reyes&layout=compact" />
-</a>
-
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/alvin-reyes/count.svg" alt ="Loading">
