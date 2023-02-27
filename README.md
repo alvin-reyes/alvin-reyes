@@ -4,4 +4,4 @@ My name is **Alvin**, I'm an Tech Entrep, product manager, full stack developer,
 
 More than 10 years experience in the Software Engineering field. Worked at HP, Oracle, IBM, Macquarie Group and ScotiaBank. Led technology teams, built/design enterprise solutions, started / built / building / sustaining / exited ventures but will always be a developer at heart.
 
-I have moved to Web3 and currently trying my best to build the future of web infrastructure at [@protocollabs](https://protocol.ai/)
+I have moved to Web3 and building the future of web infrastructure at [@protocollabs](https://protocol.ai/).
