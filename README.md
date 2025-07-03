@@ -21,7 +21,7 @@ Leading enterprise data solutions and analytics platform development
 *Chain Academy* | [chain-academy.io](https://chain-academy.io/)  
 Executive education in blockchain and Web3 technologies for enterprise clients
 
-**Chief Technology Officer**  
+**Director and Chief Technology Officer**  
 *Koneksi Enterprise Secure Digital Storage* | [koneksi.co.kr](https://koneksi.co.kr/)  
 Architecting enterprise-grade secure storage solutions and infrastructure
 
