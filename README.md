@@ -17,6 +17,10 @@
 *AR Data Technologies* | [ardata.tech](https://ardata.tech/)  
 Leading enterprise data solutions and analytics platform development
 
+**Founder & Chief Executive Officer**  
+*MetaDev Inc.* | [meta-dev.io](https://meta-dev.io)  
+Technology, Web3, Blockchain and Agentic AI Staff Augmentation Professional Services
+
 **Founder & Chief Learning Officer**  
 *Chain Academy* | [chain-academy.io](https://chain-academy.io/)  
 Executive education in blockchain and Web3 technologies for enterprise clients
