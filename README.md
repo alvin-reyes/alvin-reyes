@@ -30,10 +30,6 @@ Executive education in blockchain and Web3 technologies for enterprise clients
 Architecting enterprise-grade secure storage solutions and infrastructure
 
 **Technology Partner**  
-*Levuka Venture Labs* | [levukalabs.com](https://www.levukalabs.com/)  
-Strategic technology advisory for venture portfolio companies
-
-**Technology Partner**  
 *Web3 Digital Asset Management Inc.* | [web3dam.com](https://web3dam.com/)  
 Enterprise blockchain and digital asset management solutions
 
