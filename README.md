@@ -108,4 +108,4 @@ Time to Market: 60% improvement in delivery cycles
 
 ---
 
-*© 2025 Alvin - Technology Executive & Solutions Architect*
+*© 2026 Alvin - Technology Executive & Solutions Architect*
