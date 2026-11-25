@@ -25,8 +25,7 @@
 ## What I run
 
 - **[AR Data Technologies](https://ardata.tech/)**: founder & CEO, data platforms and the home of ADE
-- **[MetaDev](https://meta-dev.io)**: founder & CEO, Web3, blockchain and agentic AI engineering teams
-- **[Chain Academy](https://chain-academy.io/)**: founder, blockchain and Web3 education for enterprises
+- **[AR Academy](https://ardata.academy)**: founder, blockchain and Web3 education for enterprises
 - **[Koneksi](https://koneksi.co.kr/)**: director & CTO, secure enterprise digital storage
 
 Before that: Protocol Labs / Filecoin, HP, Oracle, IBM, Macquarie Group, Scotiabank.
