@@ -1,6 +1,13 @@
 # Hi, I'm Alvin 👋
 
-I build things that ship. 15+ years of software engineering, from banks and enterprise storage to Web3 protocols, and now **AI agents that write, review and verify code**.
+**Technology executive and hands-on builder.** Founder, CEO and CTO across data, storage, Web3 and AI companies, with 15+ years of enterprise software engineering behind it: banks, enterprise storage and Web3 protocols. Today: **AI agents that write, review and verify code.**
+
+## How I lead
+
+- **Strategy to shipped code:** I set the technology direction and still write and review the code that delivers it
+- **Teams that scale:** built and led cross-functional engineering teams of 40+, across companies and time zones
+- **Enterprise-grade by default:** architecture, security and verification first, for financial services, storage and Fortune 500 clients
+- **AI-native delivery:** small senior teams plus AI agents, with every change verified before it counts as done
 
 ## Now building: ADE
 
