@@ -25,6 +25,8 @@
 ## What I run
 
 - **[AR Data Technologies](https://ardata.tech/)**: founder & CEO, data platforms and the home of ADE
+- **[CAIDen](https://caiden.tech)**: founder & principal engineer, AI agents that answer calls, texts and chats 24/7 and book the appointment
+- **[NarraLearn](https://narralearn.caiden.tech)**: founder & principal engineer, turns learning modules into podcast episodes in Taglish, Tagalog or English
 - **[AR Academy](https://ardata.academy)**: founder, blockchain and Web3 education for enterprises
 - **[Koneksi](https://koneksi.co.kr/)**: director & CTO, secure enterprise digital storage
 
