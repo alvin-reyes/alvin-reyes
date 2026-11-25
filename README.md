@@ -28,7 +28,6 @@
 - **[MetaDev](https://meta-dev.io)**: founder & CEO, Web3, blockchain and agentic AI engineering teams
 - **[Chain Academy](https://chain-academy.io/)**: founder, blockchain and Web3 education for enterprises
 - **[Koneksi](https://koneksi.co.kr/)**: director & CTO, secure enterprise digital storage
-- **[Web3 Digital Asset Management](https://web3dam.com/)**: technology partner
 
 Before that: Protocol Labs / Filecoin, HP, Oracle, IBM, Macquarie Group, Scotiabank.
 
