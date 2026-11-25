@@ -1,111 +1,37 @@
-# Technology Executive & Enterprise Solutions Architect
+# Hi, I'm Alvin 👋
 
-## Executive Summary
+I build things that ship. 15+ years of software engineering, from banks and enterprise storage to Web3 protocols, and now **AI agents that write, review and verify code**.
 
-**Technology Executive** with over 15 years of enterprise software engineering experience, specializing in **digital transformation**, **product strategy**, and **team leadership**. Proven track record of delivering scalable solutions for Fortune 500 companies and building high-performing technology organizations.
+## Now building: ADE
 
-### Core Competencies
-- **Leadership:** Technology teams, product strategy, enterprise architecture
-- **Domains:** Financial services, enterprise storage, blockchain technology, data analytics
-- **Specialization:** Full-stack development, DevOps, Web3 technologies, digital asset management
+**[ADE](https://ade.ardata.tech)** is an agentic development environment: a team of AI agents that plans, builds test-first and hands the work to an independent reviewer. Nothing counts as done until the verification command passes. **Fast and verified.**
 
-## Professional Experience
+| Repo | What it does |
+|---|---|
+| [ade-cli](https://github.com/better-ade/ade-cli) | One command for ADE in any terminal: hub, focus agents, screenshots, skills |
+| [ade-brain](https://github.com/better-ade/ade-brain) | The hub: orchestrates AI personas across projects, reachable from your phone |
+| [ade-method](https://github.com/better-ade/ade-method) | The method: risk-scaled review, a Definition of Done the agents can't fake |
+| [ade-agent-registry](https://github.com/better-ade/ade-agent-registry) | Specialist agents (frontend, backend, devops, …), loaded only when a task needs one |
+| [ade-skills](https://github.com/better-ade/ade-skills) | Claude Code plugin marketplace of skills and MCP servers |
+| [ade-drill](https://github.com/better-ade/ade-drill) | Nightly end-to-end drills across every repo, on macOS and Ubuntu |
 
-### Current Leadership Positions
+## What I run
 
-**Founder & Chief Executive Officer**  
-*AR Data Technologies* | [ardata.tech](https://ardata.tech/)  
-Leading enterprise data solutions and analytics platform development
+- **[AR Data Technologies](https://ardata.tech/)**: founder & CEO, data platforms and the home of ADE
+- **[MetaDev](https://meta-dev.io)**: founder & CEO, Web3, blockchain and agentic AI engineering teams
+- **[Chain Academy](https://chain-academy.io/)**: founder, blockchain and Web3 education for enterprises
+- **[Koneksi](https://koneksi.co.kr/)**: director & CTO, secure enterprise digital storage
+- **[Web3 Digital Asset Management](https://web3dam.com/)**: technology partner
 
-**Founder & Chief Executive Officer**  
-*MetaDev Inc.* | [meta-dev.io](https://meta-dev.io)  
-Technology, Web3, Blockchain and Agentic AI Staff Augmentation Professional Services
+Before that: Protocol Labs / Filecoin, HP, Oracle, IBM, Macquarie Group, Scotiabank.
 
-**Founder & Chief Learning Officer**  
-*Chain Academy* | [chain-academy.io](https://chain-academy.io/)  
-Executive education in blockchain and Web3 technologies for enterprise clients
+## What I work with
 
-**Director and Chief Technology Officer**  
-*Koneksi Enterprise Secure Digital Storage* | [koneksi.co.kr](https://koneksi.co.kr/)  
-Architecting enterprise-grade secure storage solutions and infrastructure
+Java · Go · JavaScript / TypeScript · Bash · Python · Claude Code & agentic workflows · distributed storage (IPFS, Filecoin) · cloud & DevOps
 
-**Technology Partner**  
-*Web3 Digital Asset Management Inc.* | [web3dam.com](https://web3dam.com/)  
-Enterprise blockchain and digital asset management solutions
+## Find me
 
-### Enterprise Experience
-
-**Previous Roles:** Protocol Labs • Filecoin • HP • Oracle • IBM • Macquarie Group • ScotiaBank
-
-#### Key Achievements
-- Led cross-functional technology teams of 40+ engineers
-- Architected and delivered enterprise solutions serving 10M+ users
-- Successfully founded, scaled, and exited multiple technology ventures
-- Managed technology budgets exceeding $2M annually
-- Implemented DevOps practices reducing deployment time by 75%
-
-## Enterprise Contributions
-
-### Open Source Leadership
-- **Maintainer** of enterprise-grade libraries with 10K+ downloads
-- **Contributor** to major open source projects including blockchain protocols
-- **Speaker** at technology conferences and enterprise events
-- **Mentor** to 100+ software engineers and technology leaders
-
-### Industry Recognition
-- Featured in enterprise technology publications
-- Advisory board member for technology startups
-- Certified in cloud platforms and enterprise architecture
-- Active participant in blockchain and Web3 standardization efforts
-
-
-## Strategic Focus Areas
-
-### Current Initiatives
-- **Digital Transformation:** Leading enterprise modernization projects
-- **Blockchain Integration:** Implementing Web3 solutions for traditional enterprises
-- **Team Development:** Building and scaling high-performance engineering teams
-- **Product Strategy:** Driving technology roadmaps for multiple ventures
-- **Thought Leadership:** Contributing to industry standards and best practices
-
-### Business Impact
-```
-Enterprise Solutions Delivered: 25+
-Team Members Led: 50+ engineers
-Revenue Impact: $10M+ generated
-Cost Optimization: 40% infrastructure savings
-Time to Market: 60% improvement in delivery cycles
-```
-
-## Professional Network
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvinpreyes)
-[![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://areyes.onl)
-[![Email](https://img.shields.io/badge/Business_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvin@ardata.tech)
-
-</div>
-
-## Thought Leadership
-
-**Areas of Expertise:**
-- Enterprise Architecture & Digital Transformation
-- Blockchain Technology & Web3 Implementation
-- Team Leadership & Engineering Management
-- Product Strategy & Go-to-Market Execution
-- DevOps & Infrastructure Optimization
-
----
-
-<div align="center">
-
-**Building tomorrow's enterprise solutions today**
-
-![Professional Badge](https://img.shields.io/badge/Enterprise_Technology_Leader-2E3440?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-*© 2026 Alvin - Technology Executive & Solutions Architect*
+[![Website](https://img.shields.io/badge/areyes.onl-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://areyes.onl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvinpreyes)
+[![X](https://img.shields.io/badge/@alvinjayreyes-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/alvinjayreyes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alvin@ardata.tech)
